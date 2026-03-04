@@ -2,7 +2,7 @@
 
 KeyAuth Go example SDK for https://keyauth.cc license key API auth.
 
-Credits: Nigel (Discord: chefendpoint, Telegram: ELF_Nigel)
+Credits: Nigel (Discord: pb2j, Telegram: ELF_Nigel)
 
 ## **Bugs**
 
